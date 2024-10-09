@@ -6,7 +6,11 @@ Cornerfalls Combat is a brawler developed using Unity and C#. Engage in thrillin
 
 ![readme-help](images/readme-help.png)
 
-## Getting Started
+## Beta Release
+
+Check out the releases tab to test the [latest build](https://github.com/yojoecapital/Cornerfalls-Combat/releases/tag/v0.0.1-beta).
+
+## Cloning this Repository
 
 To experience Cornerfalls Combat, follow these steps:
 
